@@ -1,0 +1,14 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Calculates Numerical Values",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Valentino Valero",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
